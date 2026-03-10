@@ -1,7 +1,7 @@
 /*Understanding basic syntax of Arrays in Java */
 /*Syntax: data_type[] array_name = new data_type[size]; */
 
-/*Array to store marks of 3 subjects */
+/*Array to store marks of 3 subjects */ 
 
 public class IntroToArrays
 {
