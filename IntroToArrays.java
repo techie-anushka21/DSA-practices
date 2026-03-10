@@ -17,5 +17,11 @@ public class IntroToArrays
         System.out.println("Subject 1 = " + marks[0]);
         System.out.println("Subject 2 = " + marks[1]);
         System.out.println("Subject 3 = " + marks[2]);
+
+        /*Finding the length of the Array using the "length" property 
+          SYNTAX: array_name.length*/
+        System.out.println(marks.length);
     }    
 }
+/*Time Complexity: O(1) -> Because no. of operations are fixed (hardcoded)
+  Space Complexity: O(1) -> Because the size of Array is fixed (hardcoded)*/
