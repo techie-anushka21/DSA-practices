@@ -14,5 +14,10 @@ public class ArrayWithLoops2
         {
             System.out.println(names[i]);
         }
+        /*Finding the length of the Array using the "length" property 
+          SYNTAX: array_name.length*/
+          System.out.println(names.length);
     }    
 }
+/*Time Complexity: O(1) -> Because no. of operations are fixed (hardcoded)
+  Space Complexity: O(1) -> Because the size of Array is fixed (hardcoded)*/
