@@ -37,7 +37,7 @@ public class InputTwoDArrays
     }    
 }
 /*Time Complexity: O(rows x columns) -> 1. No hardcoded no. of Operations in Rows and Columns.
-                          -> 2. No harcoded values.
+                          -> 2. No hardcoded values.
   
   Space Complexity: O(rows x columns) -> 1. No hardcoded size whether a Row or Column.
 */
