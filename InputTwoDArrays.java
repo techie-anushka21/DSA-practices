@@ -1,4 +1,5 @@
 /*Taking input from the user to make a 2-D Array */
+
 import java.util.Scanner;    //importing the Scanner class
 
 public class InputTwoDArrays
