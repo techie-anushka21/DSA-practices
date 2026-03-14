@@ -38,7 +38,7 @@ public class Even_Odd
                 even++;    /*if element found Even, the no. of Even nos. is incremented 
                              by 1 every time, else no increment */
             }
-            if(ar[i] % 2 != 0)
+            if(ar[i] % 2 != 0)    //condition for Odd no.
             {
                 odd++;    /*if element found Even, the no. of Odd nos. is incremented 
                             by 1 every time, else no increment */
