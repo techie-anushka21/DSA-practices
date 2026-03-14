@@ -1,5 +1,4 @@
 /*Finding the Smallest (min) element in an Array */
-
 import java.util.Scanner;    //importing the Scanner class
 
 public class MinArrayElement
