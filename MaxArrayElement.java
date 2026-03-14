@@ -1,6 +1,6 @@
 /*Finding the Largest (max) element in an Array */
-
 import java.util.Scanner;    //importing the Scanner class
+
 public class MaxArrayElement
 {
     public static void main(String args[])
