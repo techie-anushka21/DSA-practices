@@ -1,5 +1,5 @@
 /*Searching an Element in a Matrix */
-import java.util.Scanner;    //importing Scanner class
+import java.util.Scanner;    //importing the Scanner class
 
 public class FindArrayElement
 {
