@@ -10,7 +10,8 @@ public class SMinElArray
         System.out.print("Enter the Size of the Array: ");
         int size = scn.nextInt();    //Scanning the size of Array input by the User
 
-        int[] matrix = new int[size];    //Array Creation
+        /*Array Creation */
+        int[] matrix = new int[size];
 
         /*Inputting the values of the Array:- */
         System.out.print("Enter the Array Elements: ");
