@@ -10,20 +10,20 @@ public class FindArrayElement
         Scanner scn = new Scanner(System.in);
         int size = scn.nextInt();    //Scanning the input size
 
-        int[] matrix = new int[size];    //Array Creation
+        int[] ar = new int[size];    //Array Creation
 
         /*Inputting the Array Elements */
         System.out.print("Enter the Array Elements: ");
         for(int i=0; i<size; i++)
         {
-            matrix[i] = scn.nextInt();    //Scanning the input elements        
+            ar[i] = scn.nextInt();    //Scanning the input elements        
         }
 
         /*Printing the Array */
         System.out.println("Array:- ");
         for(int i=0; i<size; i++)
         {
-            System.out.print(matrix[i] + " ");            
+            System.out.print(ar[i] + " ");            
         }
         System.out.println();
 
@@ -34,7 +34,7 @@ public class FindArrayElement
                                           to be found */
         for(int i=0; i<size; i++)
         {
-            if(matrix[i]==element)    //checking if any Matrix element matches input
+            if(ar[i]==element)    //checking if any Matrix element matches input
             {
                 found = true;
                 System.out.println("Elememt found at index: " + i);
