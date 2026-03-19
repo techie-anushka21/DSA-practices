@@ -45,7 +45,6 @@ public class FindArrayElement
         {
             System.out.println("Element not found, try again!");
         }
-
         scn.close();
     }
 }
