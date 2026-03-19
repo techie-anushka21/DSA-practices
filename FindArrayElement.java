@@ -1,4 +1,4 @@
-/*Finding element in an 1-D Array, input by the user using Linear Search. */
+/*Finding element input by the user using Linear Search in 1-D Array. */
 import java.util.Scanner;    //importing the Scanner class
 
 public class FindArrayElement
