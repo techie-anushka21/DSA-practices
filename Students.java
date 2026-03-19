@@ -27,3 +27,5 @@ public class Students
         System.out.println(IsAStudent[1]);    //accessing element at 1st index
     }    
 }
+/*1. Time Complexity = O(1)
+  2. Space Complexity = O(1) */

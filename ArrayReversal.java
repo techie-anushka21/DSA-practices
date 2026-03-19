@@ -35,3 +35,5 @@ public class ArrayReversal
         scn.close();
     } 
 }
+/*1. Time Complexity = O(n)
+  2. Space Complexity = O(n) */

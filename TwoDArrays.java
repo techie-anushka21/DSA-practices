@@ -25,3 +25,5 @@ public class TwoDArrays
         }
     }    
 }
+/*1. Time Complexity = O(1)
+  2. Space Complexity = O(1) */
