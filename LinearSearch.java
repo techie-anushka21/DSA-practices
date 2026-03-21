@@ -1,4 +1,5 @@
 /*Finding element input by the user using Linear Search in 1-D Array. */
+/*Linear Search can be performed both on Sorted & Unsorted Arrays */
 import java.util.Scanner;    //importing the Scanner class
 
 public class LinearSearch
