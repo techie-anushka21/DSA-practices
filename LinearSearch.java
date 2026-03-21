@@ -41,7 +41,7 @@ public class LinearSearch
                 break;
             }
         }
-        if(!found)    //if element id not found
+        if(!found)    //if element id is not found
         {
             System.out.println("Element not found, try again!");
         }
